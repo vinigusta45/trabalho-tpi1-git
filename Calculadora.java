@@ -14,6 +14,7 @@ public class Calculadora {
         }
     }
 
+    // Adicionando comentário para revisão do professor, feito por Vinícius
     // Método principal para testar
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
